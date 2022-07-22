@@ -1,6 +1,0 @@
-login password: 1234
-
-Run code: javac LoginDemo.java
-
-Student_Index: GAL/IT/2020/F/0057
-
